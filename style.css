@@ -1,0 +1,52 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.right-side {
+    height: 250px;
+    background: #fff;
+}
+
+.left-side {
+    height: 250px;
+    background: #fff;
+}
+
+.bg-light {
+    background: #fff !important;
+}
+
+.header-main {
+    padding: 15px;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+
+* {
+    font-family: 'Cairo';
+}
+
+a {
+    font-size: 22px;
+    font-weight: 500;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+
+}
+
+a:hover {
+    text-decoration: none;
+    background-color: rgb(240, 240, 240);
+
+}
+
+.col-md-4, .col-md-7 {
+    margin-bottom: 10px;
+}
