@@ -9,13 +9,17 @@ body {
 }
 
 .right-side {
-    height: 250px;
+    height: 400px;
     background: #fff;
+    margin-left: 2%;
+    width: 28%;
+    padding: 15px;
 }
 
 .left-side {
-    height: 250px;
+    height: 400px;
     background: #fff;
+    width: 70%;
 }
 
 .bg-light {
@@ -23,30 +27,46 @@ body {
 }
 
 .header-main {
-    padding: 15px;
+    padding: 20px 30px;
     background-color: #fff;
-    margin-bottom: 10px;
+    margin-bottom: 2%;
 }
 
 * {
-    font-family: 'Cairo';
+    font-family: 'Noto Kufi Arabic';
 }
 
 a {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 500;
-    color: black;
+    color: rgb(63, 63, 63);
     padding: 5px 10px;
     border-radius: 5px;
+    font-family: 'Noto Kufi Arabic';
 
 }
 
 a:hover {
     text-decoration: none;
-    background-color: rgb(240, 240, 240);
+    background-color: #f4f4f4;
+    color: rgb(0, 0, 0);
 
 }
 
 .col-md-4, .col-md-7 {
     margin-bottom: 10px;
+}
+
+.container {
+    max-width: 100%;
+}
+
+.title {
+    font-family: 'Noto Kufi Arabic';
+    font-size: 20px;
+    font-weight: 500;
+}
+
+body {
+    padding: 2% 5%;
 }
