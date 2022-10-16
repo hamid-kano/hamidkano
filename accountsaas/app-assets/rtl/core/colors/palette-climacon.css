@@ -1,0 +1,1109 @@
+.climacon-white .climacon_component-stroke
+{
+    fill: #fff;
+}
+
+.climacon-black .climacon_component-stroke
+{
+    fill: #000;
+}
+
+.climacon-primary.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #e0f6f6;
+}
+
+.climacon-primary.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #b3e9ea;
+}
+
+.climacon-primary.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #80dadc;
+}
+
+.climacon-primary.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #4dcbcd;
+}
+
+.climacon-primary.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #26c0c3;
+}
+
+.climacon-primary .climacon_component-stroke
+{
+    fill: #00b5b8;
+}
+
+.climacon-primary .climacon_component-fill
+{
+    fill: #b3e9ea;
+}
+
+.climacon-primary.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #00aeb1;
+}
+
+.climacon-primary.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #00a5a8;
+}
+
+.climacon-primary.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #009da0;
+}
+
+.climacon-primary.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #008d91;
+}
+
+.climacon-primary.climacon-accent-1 .climacon_component-stroke
+{
+    fill: #bdfdff;
+}
+
+.climacon-primary.climacon-accent-2 .climacon_component-stroke
+{
+    fill: #8afbff;
+}
+
+.climacon-primary.climacon-accent-3 .climacon_component-stroke
+{
+    fill: #57faff;
+}
+
+.climacon-primary.climacon-accent-4 .climacon_component-stroke
+{
+    fill: #3df9ff;
+}
+
+.climacon-success.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #e3faf3;
+}
+
+.climacon-success.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #b9f2e1;
+}
+
+.climacon-success.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #8be9cd;
+}
+
+.climacon-success.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #5ce0b8;
+}
+
+.climacon-success.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #39daa9;
+}
+
+.climacon-success .climacon_component-stroke
+{
+    fill: #16d39a;
+}
+
+.climacon-success .climacon_component-fill
+{
+    fill: #b9f2e1;
+}
+
+.climacon-success.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #13ce92;
+}
+
+.climacon-success.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #10c888;
+}
+
+.climacon-success.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #0cc27e;
+}
+
+.climacon-success.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #06b76c;
+}
+
+.climacon-success.climacon-accent-1 .climacon_component-stroke
+{
+    fill: #e1fff1;
+}
+
+.climacon-success.climacon-accent-2 .climacon_component-stroke
+{
+    fill: #aeffd9;
+}
+
+.climacon-success.climacon-accent-3 .climacon_component-stroke
+{
+    fill: #7bffc1;
+}
+
+.climacon-success.climacon-accent-4 .climacon_component-stroke
+{
+    fill: #62ffb5;
+}
+
+.climacon-info.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #e6f9fc;
+}
+
+.climacon-info.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #c0f0f7;
+}
+
+.climacon-info.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #96e7f1;
+}
+
+.climacon-info.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #6cddeb;
+}
+
+.climacon-info.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #4dd5e7;
+}
+
+.climacon-info .climacon_component-stroke
+{
+    fill: #2dcee3;
+}
+
+.climacon-info .climacon_component-fill
+{
+    fill: #c0f0f7;
+}
+
+.climacon-info.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #28c9e0;
+}
+
+.climacon-info.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #22c2dc;
+}
+
+.climacon-info.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #1cbcd8;
+}
+
+.climacon-info.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #11b0d0;
+}
+
+.climacon-info.climacon-accent-1 .climacon_component-stroke
+{
+    fill: #feffff;
+}
+
+.climacon-info.climacon-accent-2 .climacon_component-stroke
+{
+    fill: #cbf5ff;
+}
+
+.climacon-info.climacon-accent-3 .climacon_component-stroke
+{
+    fill: #98ecff;
+}
+
+.climacon-info.climacon-accent-4 .climacon_component-stroke
+{
+    fill: #7fe7ff;
+}
+
+.climacon-warning.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #fff5ef;
+}
+
+.climacon-warning.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #ffe5d8;
+}
+
+.climacon-warning.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #ffd4be;
+}
+
+.climacon-warning.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #ffc2a4;
+}
+
+.climacon-warning.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #ffb591;
+}
+
+.climacon-warning .climacon_component-stroke
+{
+    fill: #ffa87d;
+}
+
+.climacon-warning .climacon_component-fill
+{
+    fill: #ffe5d8;
+}
+
+.climacon-warning.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #ffa075;
+}
+
+.climacon-warning.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #ff976a;
+}
+
+.climacon-warning.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #ff8d60;
+}
+
+.climacon-warning.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #ff7d4d;
+}
+
+.climacon-warning.climacon-accent-1 .climacon_component-stroke
+{
+    fill: #fff5ef;
+}
+
+.climacon-warning.climacon-accent-2 .climacon_component-stroke
+{
+    fill: #ffe5d8;
+}
+
+.climacon-warning.climacon-accent-3 .climacon_component-stroke
+{
+    fill: #fff6f3;
+}
+
+.climacon-warning.climacon-accent-4 .climacon_component-stroke
+{
+    fill: #ffe3da;
+}
+
+.climacon-danger.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #ffeef1;
+}
+
+.climacon-danger.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #ffd6db;
+}
+
+.climacon-danger.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #ffbac4;
+}
+
+.climacon-danger.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #ff9eac;
+}
+
+.climacon-danger.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #ff8a9a;
+}
+
+.climacon-danger .climacon_component-stroke
+{
+    fill: #ff7588;
+}
+
+.climacon-danger .climacon_component-fill
+{
+    fill: #ffd6db;
+}
+
+.climacon-danger.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #ff6d80;
+}
+
+.climacon-danger.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #ff6275;
+}
+
+.climacon-danger.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #ff586b;
+}
+
+.climacon-danger.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #ff4558;
+}
+
+.climacon-danger.climacon-accent-1 .climacon_component-stroke
+{
+    fill: #ffeef1;
+}
+
+.climacon-danger.climacon-accent-2 .climacon_component-stroke
+{
+    fill: #ffd6db;
+}
+
+.climacon-danger.climacon-accent-3 .climacon_component-stroke
+{
+    fill: #ffecee;
+}
+
+.climacon-danger.climacon-accent-4 .climacon_component-stroke
+{
+    fill: #ffd3d7;
+}
+
+.climacon-red.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #ffebee;
+}
+
+.climacon-red.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #ffcdd2;
+}
+
+.climacon-red.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #ef9a9a;
+}
+
+.climacon-red.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #e57373;
+}
+
+.climacon-red.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #ef5350;
+}
+
+.climacon-red .climacon_component-stroke
+{
+    fill: #f44336;
+}
+
+.climacon-red .climacon_component-fill
+{
+    fill: #ffcdd2;
+}
+
+.climacon-red.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #e53935;
+}
+
+.climacon-red.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #d32f2f;
+}
+
+.climacon-red.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #c62828;
+}
+
+.climacon-red.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #b71c1c;
+}
+
+.climacon-red.climacon-accent-1 .climacon_component-stroke
+{
+    fill: #ff8a80;
+}
+
+.climacon-red.climacon-accent-2 .climacon_component-stroke
+{
+    fill: #ff5252;
+}
+
+.climacon-red.climacon-accent-3 .climacon_component-stroke
+{
+    fill: #ff1744;
+}
+
+.climacon-red.climacon-accent-4 .climacon_component-stroke
+{
+    fill: #d50000;
+}
+
+.climacon-pink.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #fce4ec;
+}
+
+.climacon-pink.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #f8bbd0;
+}
+
+.climacon-pink.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #f48fb1;
+}
+
+.climacon-pink.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #f06292;
+}
+
+.climacon-pink.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #ec407a;
+}
+
+.climacon-pink .climacon_component-stroke
+{
+    fill: #e91e63;
+}
+
+.climacon-pink .climacon_component-fill
+{
+    fill: #f8bbd0;
+}
+
+.climacon-pink.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #d81b60;
+}
+
+.climacon-pink.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #c2185b;
+}
+
+.climacon-pink.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #ad1457;
+}
+
+.climacon-pink.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #880e4f;
+}
+
+.climacon-pink.climacon-accent-1 .climacon_component-stroke
+{
+    fill: #ff80ab;
+}
+
+.climacon-pink.climacon-accent-2 .climacon_component-stroke
+{
+    fill: #ff4081;
+}
+
+.climacon-pink.climacon-accent-3 .climacon_component-stroke
+{
+    fill: #f50057;
+}
+
+.climacon-pink.climacon-accent-4 .climacon_component-stroke
+{
+    fill: #c51162;
+}
+
+.climacon-purple.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #f3e5f5;
+}
+
+.climacon-purple.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #e1bee7;
+}
+
+.climacon-purple.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #ce93d8;
+}
+
+.climacon-purple.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #ba68c8;
+}
+
+.climacon-purple.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #ab47bc;
+}
+
+.climacon-purple .climacon_component-stroke
+{
+    fill: #9c27b0;
+}
+
+.climacon-purple .climacon_component-fill
+{
+    fill: #e1bee7;
+}
+
+.climacon-purple.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #8e24aa;
+}
+
+.climacon-purple.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #7b1fa2;
+}
+
+.climacon-purple.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #6a1b9a;
+}
+
+.climacon-purple.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #4a148c;
+}
+
+.climacon-purple.climacon-accent-1 .climacon_component-stroke
+{
+    fill: #ea80fc;
+}
+
+.climacon-purple.climacon-accent-2 .climacon_component-stroke
+{
+    fill: #e040fb;
+}
+
+.climacon-purple.climacon-accent-3 .climacon_component-stroke
+{
+    fill: #d500f9;
+}
+
+.climacon-purple.climacon-accent-4 .climacon_component-stroke
+{
+    fill: #d0f;
+}
+
+.climacon-blue.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #e3f2fd;
+}
+
+.climacon-blue.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #bbdefb;
+}
+
+.climacon-blue.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #90caf9;
+}
+
+.climacon-blue.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #64b5f6;
+}
+
+.climacon-blue.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #42a5f5;
+}
+
+.climacon-blue .climacon_component-stroke
+{
+    fill: #2196f3;
+}
+
+.climacon-blue .climacon_component-fill
+{
+    fill: #bbdefb;
+}
+
+.climacon-blue.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #1e88e5;
+}
+
+.climacon-blue.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #1976d2;
+}
+
+.climacon-blue.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #1565c0;
+}
+
+.climacon-blue.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #0d47a1;
+}
+
+.climacon-blue.climacon-accent-1 .climacon_component-stroke
+{
+    fill: #82b1ff;
+}
+
+.climacon-blue.climacon-accent-2 .climacon_component-stroke
+{
+    fill: #448aff;
+}
+
+.climacon-blue.climacon-accent-3 .climacon_component-stroke
+{
+    fill: #2979ff;
+}
+
+.climacon-blue.climacon-accent-4 .climacon_component-stroke
+{
+    fill: #2962ff;
+}
+
+.climacon-cyan.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #e0f7fa;
+}
+
+.climacon-cyan.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #b2ebf2;
+}
+
+.climacon-cyan.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #80deea;
+}
+
+.climacon-cyan.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #4dd0e1;
+}
+
+.climacon-cyan.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #26c6da;
+}
+
+.climacon-cyan .climacon_component-stroke
+{
+    fill: #00bcd4;
+}
+
+.climacon-cyan .climacon_component-fill
+{
+    fill: #b2ebf2;
+}
+
+.climacon-cyan.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #00acc1;
+}
+
+.climacon-cyan.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #0097a7;
+}
+
+.climacon-cyan.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #00838f;
+}
+
+.climacon-cyan.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #006064;
+}
+
+.climacon-cyan.climacon-accent-1 .climacon_component-stroke
+{
+    fill: #84ffff;
+}
+
+.climacon-cyan.climacon-accent-2 .climacon_component-stroke
+{
+    fill: #18ffff;
+}
+
+.climacon-cyan.climacon-accent-3 .climacon_component-stroke
+{
+    fill: #00e5ff;
+}
+
+.climacon-cyan.climacon-accent-4 .climacon_component-stroke
+{
+    fill: #00b8d4;
+}
+
+.climacon-teal.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #e0f2f1;
+}
+
+.climacon-teal.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #b2dfdb;
+}
+
+.climacon-teal.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #80cbc4;
+}
+
+.climacon-teal.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #4db6ac;
+}
+
+.climacon-teal.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #26a69a;
+}
+
+.climacon-teal .climacon_component-stroke
+{
+    fill: #009688;
+}
+
+.climacon-teal .climacon_component-fill
+{
+    fill: #b2dfdb;
+}
+
+.climacon-teal.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #00897b;
+}
+
+.climacon-teal.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #00796b;
+}
+
+.climacon-teal.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #00695c;
+}
+
+.climacon-teal.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #004d40;
+}
+
+.climacon-teal.climacon-accent-1 .climacon_component-stroke
+{
+    fill: #a7ffeb;
+}
+
+.climacon-teal.climacon-accent-2 .climacon_component-stroke
+{
+    fill: #64ffda;
+}
+
+.climacon-teal.climacon-accent-3 .climacon_component-stroke
+{
+    fill: #1de9b6;
+}
+
+.climacon-teal.climacon-accent-4 .climacon_component-stroke
+{
+    fill: #00bfa5;
+}
+
+.climacon-yellow.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #fffde7;
+}
+
+.climacon-yellow.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #fff9c4;
+}
+
+.climacon-yellow.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #fff59d;
+}
+
+.climacon-yellow.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #fff176;
+}
+
+.climacon-yellow.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #ffee58;
+}
+
+.climacon-yellow .climacon_component-stroke
+{
+    fill: #ffeb3b;
+}
+
+.climacon-yellow .climacon_component-fill
+{
+    fill: #fff9c4;
+}
+
+.climacon-yellow.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #fdd835;
+}
+
+.climacon-yellow.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #fbc02d;
+}
+
+.climacon-yellow.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #f9a825;
+}
+
+.climacon-yellow.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #f57f17;
+}
+
+.climacon-yellow.climacon-accent-1 .climacon_component-stroke
+{
+    fill: #ffff8d;
+}
+
+.climacon-yellow.climacon-accent-2 .climacon_component-stroke
+{
+    fill: #ff0;
+}
+
+.climacon-yellow.climacon-accent-3 .climacon_component-stroke
+{
+    fill: #ffea00;
+}
+
+.climacon-yellow.climacon-accent-4 .climacon_component-stroke
+{
+    fill: #ffd600;
+}
+
+.climacon-amber.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #fff8e1;
+}
+
+.climacon-amber.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #ffecb3;
+}
+
+.climacon-amber.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #ffe082;
+}
+
+.climacon-amber.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #ffd54f;
+}
+
+.climacon-amber.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #ffca28;
+}
+
+.climacon-amber .climacon_component-stroke
+{
+    fill: #ffc107;
+}
+
+.climacon-amber .climacon_component-fill
+{
+    fill: #ffecb3;
+}
+
+.climacon-amber.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #ffb300;
+}
+
+.climacon-amber.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #ffa000;
+}
+
+.climacon-amber.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #ff8f00;
+}
+
+.climacon-amber.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #ff6f00;
+}
+
+.climacon-amber.climacon-accent-1 .climacon_component-stroke
+{
+    fill: #ffe57f;
+}
+
+.climacon-amber.climacon-accent-2 .climacon_component-stroke
+{
+    fill: #ffd740;
+}
+
+.climacon-amber.climacon-accent-3 .climacon_component-stroke
+{
+    fill: #ffc400;
+}
+
+.climacon-amber.climacon-accent-4 .climacon_component-stroke
+{
+    fill: #ffab00;
+}
+
+.climacon-blue-grey.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #eceff1;
+}
+
+.climacon-blue-grey.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #cfd8dc;
+}
+
+.climacon-blue-grey.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #b0bec5;
+}
+
+.climacon-blue-grey.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #90a4ae;
+}
+
+.climacon-blue-grey.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #78909c;
+}
+
+.climacon-blue-grey .climacon_component-stroke
+{
+    fill: #607d8b;
+}
+
+.climacon-blue-grey .climacon_component-fill
+{
+    fill: #cfd8dc;
+}
+
+.climacon-blue-grey.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #546e7a;
+}
+
+.climacon-blue-grey.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #455a64;
+}
+
+.climacon-blue-grey.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #37474f;
+}
+
+.climacon-blue-grey.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #263238;
+}
+
+.climacon-grey-blue.climacon-lighten-5 .climacon_component-stroke
+{
+    fill: #eceff1;
+}
+
+.climacon-grey-blue.climacon-lighten-4 .climacon_component-stroke
+{
+    fill: #cfd8dc;
+}
+
+.climacon-grey-blue.climacon-lighten-3 .climacon_component-stroke
+{
+    fill: #b0bec5;
+}
+
+.climacon-grey-blue.climacon-lighten-2 .climacon_component-stroke
+{
+    fill: #6f85ad;
+}
+
+.climacon-grey-blue.climacon-lighten-1 .climacon_component-stroke
+{
+    fill: #78909c;
+}
+
+.climacon-grey-blue .climacon_component-stroke
+{
+    fill: #1b2942;
+}
+
+.climacon-grey-blue .climacon_component-fill
+{
+    fill: #cfd8dc;
+}
+
+.climacon-grey-blue.climacon-darken-1 .climacon_component-stroke
+{
+    fill: #546e7a;
+}
+
+.climacon-grey-blue.climacon-darken-2 .climacon_component-stroke
+{
+    fill: #404e67;
+}
+
+.climacon-grey-blue.climacon-darken-3 .climacon_component-stroke
+{
+    fill: #37474f;
+}
+
+.climacon-grey-blue.climacon-darken-4 .climacon_component-stroke
+{
+    fill: #263238;
+}
+
+.climacon-shades.climacon-black .climacon_component-stroke
+{
+    fill: #000;
+}
+
+.climacon-shades.climacon-white .climacon_component-stroke
+{
+    fill: #fff;
+}
+
+.climacon-shades.climacon-transparent .climacon_component-stroke
+{
+    fill: transparent;
+}

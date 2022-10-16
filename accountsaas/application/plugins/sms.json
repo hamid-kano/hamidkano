@@ -1,0 +1,5 @@
+{
+ "name": "BulkSMS",
+ "path": "plugins/sms",
+ "version": "1"
+}
