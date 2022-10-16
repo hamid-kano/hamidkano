@@ -14,15 +14,19 @@ function getgame()
     }
 }
 
+
+
+
+
 function getgame_alphapitlacy()
 {
-    $sql = "SELECT * FROM game order by title";
-    $result = mysqli_query($GLOBALS['con_db'], $sql);
-    if ($result  && mysqli_num_rows($result) > 0) {
-        return $result;
-    } else {
-        return null;
-    }
+    // $sql = "SELECT * FROM game order by title";
+    // $result = mysqli_query($GLOBALS['con_db'], $sql);
+    // if ($result  && mysqli_num_rows($result) > 0) {
+    //     return $result;
+    // } else {
+    //     return null;
+    // }
 }
 
 
