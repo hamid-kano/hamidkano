@@ -14,7 +14,9 @@ if ($con) {
 } else {
   echo "لم يتم الاتصال حصل خطأ";
 }
+//hghfghfg
 
+//hghdfhdf
 
 $con_db = mysqli_connect($servername, $username, $password, $dbname); // للأتصال بمخدم قواعد البيانات والداتابيز 
 
