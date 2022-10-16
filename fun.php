@@ -32,13 +32,13 @@ function getgame_alphapitlacy()
 
 function getgame_recently()
 {
-    $sql = "SELECT * FROM game order by date DESC";
-    $result = mysqli_query($GLOBALS['con_db'], $sql);
-    if ($result  && mysqli_num_rows($result) > 0) {
-        return $result;
-    } else {
-        return null;
-    }
+//     $sql = "SELECT * FROM game order by date DESC";
+//     $result = mysqli_query($GLOBALS['con_db'], $sql);
+//     if ($result  && mysqli_num_rows($result) > 0) {
+//         return $result;
+//     } else {
+//         return null;
+//     }
 }
 
 function getgame_desc()
