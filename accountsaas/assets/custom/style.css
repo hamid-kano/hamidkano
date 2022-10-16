@@ -1,0 +1,577 @@
+﻿.task_Progress, .task_Due, .task_Done
+{
+text-transform: capitalize;
+    color: #fff;
+    padding: 4px;
+    border-radius: 11px;
+    font-size: 10px;
+}
+.task_Done
+{
+ background-color: #5ed45e;
+}
+.task_Due 
+{
+ background-color: #d45e7f;
+}
+.task_Progress
+{
+ background-color: #848030;
+}
+.timeline {
+    list-style: none;
+    padding: 20px 0 20px;
+    position: relative;
+}
+.timeline:before {
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    content: " ";
+    width: 3px;
+    background-color: #eeeeee;
+    left: 50%;
+    margin-left: -1.5px;
+}
+.timeline > li {
+    margin-bottom: 20px;
+    position: relative;
+}
+.timeline > li:before,
+.timeline > li:after {
+    content: " ";
+    display: table;
+}
+.timeline > li:after {
+    clear: both;
+}
+.timeline > li:before,
+.timeline > li:after {
+    content: " ";
+    display: table;
+}
+.timeline > li:after {
+    clear: both;
+}
+.timeline > li > .timeline-panel {
+    width: 50%;
+    float: left;
+    border: 1px solid #d4d4d4;
+    border-radius: 2px;
+    padding: 20px;
+    position: relative;
+    -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+}
+.timeline > li.timeline-inverted + li:not(.timeline-inverted),
+.timeline > li:not(.timeline-inverted) + li.timeline-inverted {
+    margin-top: -60px;
+}
+
+.timeline > li:not(.timeline-inverted) {
+    padding-right:90px;
+}
+
+.timeline > li.timeline-inverted {
+    padding-left:90px;
+}
+.timeline > li > .timeline-panel:before {
+    position: absolute;
+    top: 26px;
+    right: -15px;
+    display: inline-block;
+    border-top: 15px solid transparent;
+    border-left: 15px solid #ccc;
+    border-right: 0 solid #ccc;
+    border-bottom: 15px solid transparent;
+    content: " ";
+}
+.timeline > li > .timeline-panel:after {
+    position: absolute;
+    top: 27px;
+    right: -14px;
+    display: inline-block;
+    border-top: 14px solid transparent;
+    border-left: 14px solid #fff;
+    border-right: 0 solid #fff;
+    border-bottom: 14px solid transparent;
+    content: " ";
+}
+.timeline > li > .timeline-badge {
+    color: #fff !important;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+    text-align: center;
+    position: absolute;
+    top: 16px;
+    left: 50%;
+    margin-left: -25px;
+    background-color: #999999;
+    z-index: 100;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+.timeline > li.timeline-inverted > .timeline-panel {
+    float: right;
+}
+.timeline > li.timeline-inverted > .timeline-panel:before {
+    border-left-width: 0;
+    border-right-width: 15px;
+    left: -15px;
+    right: auto;
+}
+.timeline > li.timeline-inverted > .timeline-panel:after {
+    border-left-width: 0;
+    border-right-width: 14px;
+    left: -14px;
+    right: auto;
+}
+.timeline-badge.primary {
+    background-color: #2e6da4 !important;
+}
+.timeline-badge.success {
+    background-color: #3f903f !important;
+}
+.timeline-badge.warning {
+    background-color: #f0ad4e !important;
+}
+.timeline-badge.danger {
+    background-color: #d9534f !important;
+}
+.timeline-badge.info {
+    background-color: #5bc0de !important;
+}
+.timeline-title {
+    margin-top: 0;
+    color: inherit;
+}
+.timeline-body > p,
+.timeline-body > ul {
+    margin-bottom: 0;
+}
+.timeline-body > p + p {
+    margin-top: 5px;
+}
+
+.project_Progress, .project_Pending, .project_Finished, .project_Waiting,.project_Terminated 
+{
+text-transform: capitalize;
+    color: #fff;
+    padding: 4px;
+    border-radius: 11px;
+    font-size: 10px;
+}
+.project_Progress
+{
+ background-color: #4979d0;
+}
+.project_Finished
+{
+ background-color: #5ed45e;
+}
+.project_Waiting 
+{
+ background-color: #d45e7f;
+}
+.project_Pending
+{
+ background-color: #49d0b7;
+}
+.project_Terminated
+{
+ background-color: #848030;
+}
+
+/* range */
+.slidecontainer {
+    width: 100%;
+}
+
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 25px;
+    background: #dafedb;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    background: #4CAF50;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #4CAF50;
+    cursor: pointer;
+}
+#addCustomer .modal-dialog {max-width: 90%;}
+
+.my_stripe tbody tr:nth-child(4n+1),.my_stripe tbody tr:nth-child(4n+2){
+    background-color : #ededed;
+}
+.pos_stripe tbody tr:nth-child(4n+1),.pos_stripe tbody tr:nth-child(4n+2){
+       background-repeat: repeat-x;
+    background-image: linear-gradient(45deg, #3cb4f5, #b5e1f5);
+}
+.v2_pos_stripe tbody tr:nth-child(2n+1){
+       background-repeat: repeat-x;
+    background-image:linear-gradient(45deg, #d6d8ff, #d0effd);
+}
+.sub_c {background-color : #fff !important;}
+.p-half {
+    padding: 0.3rem;
+}
+.pos_w{
+    width: 60px !important;
+}
+
+.st-sub2
+{
+ background-color: #5ed45e;
+ padding:4pt;
+ border-radius:2pt;
+ color:#fff;
+}
+.st-sub3
+{
+ background-color: #5da6fb;
+  padding:4pt;
+ border-radius:2pt;
+ color:#fff;
+}
+.st-sub4
+{
+ background-color: #fb5de8;
+ padding:4pt;
+ border-radius:2pt;
+ color:#fff;
+}
+
+.row.is-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.row.is-flex > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.is-flex .box {
+  background: none;
+  position: static;
+}
+.is-flex [class*="col-"] {
+  background: #fff;
+}
+
+
+.box {
+    padding: 15px 7% 0;
+    text-align: center;
+    position: relative;
+    background: #fff;
+}
+.box h2 {
+    font-weight: 300;
+    letter-spacing: -0.05em;
+    margin-bottom: 15px;
+}
+.box img {
+    display: block;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-radius: 0;
+    padding: 25px 0;
+}
+.box a {
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-radius: 0;
+    padding: 25px 0;
+}
+.box p {
+    padding-bottom: 125px;
+    font-size: 16px;
+    font-weight: 300;
+    opacity: 0.8;
+}
+
+.font-large-x1 {
+    font-size: 1.5rem !important;
+}
+
+.has-error {
+    color: #ff2a2a;
+    border: 1px solid !important;
+    padding: 0px;
+}
+
+.b_input {
+padding: 0.7rem 0.75rem;
+    font-size: 1.1rem;
+	border-radius: 1.5rem;
+	}
+	.feedback {
+  background-color : #31B0D5;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 4px;
+  border-color: #46b8da;
+}
+
+#mybutton {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  z-index: 1000;
+    background: #fff;
+    width: 100%;
+    padding: .6rem;
+    border-top: 2px solid #efefef;
+
+}
+
+.pageover {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  z-index: 1000;
+    background: #fff;
+    width: 100%;
+    padding: .2rem;
+    border-top: 2px solid #efefef;
+
+}
+.pageover_b {
+  position: relative;
+  top: 0px;
+  right: 0px;
+  z-index: 3000;
+    background: #fff;
+    width: 100%;
+    padding: .6rem;
+    border-top: 2px solid #efefef;
+
+}
+
+
+.sbox-result ol {
+  color: #ccc;
+  list-style-type: none;
+}
+
+#customer-box-result ol li,#supplier-box-result ol li  {
+  position: relative;
+  font-size:16px;
+  font-weight:600;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.sbox-result  p {
+  font-size: 14px;
+  padding-left: 14px;
+  color: #555;
+}
+
+.sbox-result  span {
+  position: absolute;
+}
+.v2_product_name{
+
+    min-width: 20rem !important;
+
+}
+.v2_td_pad{
+    padding:3px;
+}
+
+  .self_scroll {
+        max-width: 100%;
+        margin-left: 0%;
+        min-height: 100%;
+        position: fixed;
+ overflow-y: scroll;
+    }
+
+
+@media (min-width: 768px) {
+    .fixed-posi {
+        width: 58.33333%;
+        margin-left: 41.66667%;
+        min-height: 100%;
+        position: fixed;
+
+    }
+       .lfixed-posi {
+
+
+    }
+
+
+}
+.pContainer {
+    display: flex;
+    overflow: hidden;
+    height: 100vh;
+
+    position: relative;
+
+    backface-visibility: hidden;
+    will-change: overflow;
+}
+/*All the scrollable sections should overflow and be whatever height they need to be. As they are flex-items (due to being inside a flex container) they could be made to stretch full height at all times if needed.
+WebKit inertia scrolling is being added here for any present/future devices that are able to make use of it.
+*/
+.pLeft,
+.pMiddle,
+.pRight {
+    overflow: auto;
+    height: auto;
+
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: none;
+}
+/*Entirely optional – just wanted to remove the scrollbar on WebKit browsers as I find them ugly*/
+.pLeft::-webkit-scrollbar,
+.Mpiddle::-webkit-scrollbar,
+.pRight::-webkit-scrollbar {
+    display: none;
+}
+/*  Left and Right are set sizes while the Middle is set to flex one so it occupies all remaining space. This could be set as a width too if prefereable, perhaps using calc.*/
+.pLeft {
+
+
+}
+
+.pMiddle {
+    flex: 1;
+}
+
+.pRight {
+
+}
+.quantity {
+  position: relative;
+    padding: 2px;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button
+{
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number]
+{
+  -moz-appearance: textfield;
+}
+
+.quantity input {
+    width: 70px;
+    height: 38px;
+    line-height: 1.65;
+    float: left;
+    display: block;
+    padding: 0;
+    margin: 0;
+    padding-left: 15px;
+    border: 1px solid #eee;
+}
+
+.quantity input:focus {
+  outline: 0;
+}
+
+.quantity-nav {
+  float: left;
+  position: relative;
+  height: 42px;
+}
+
+.quantity-button {
+  position: relative;
+  cursor: pointer;
+  border-left: 1px solid #eee;
+  width: 20px;
+  text-align: center;
+  color: #333;
+  font-size: 13px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif !important;
+  line-height: 1.7;
+  -webkit-transform: translateX(-100%);
+  transform: translateX(-100%);
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+.quantity-button.quantity-up {
+  position: absolute;
+  height: 50%;
+  top: 0;
+  border-bottom: 1px solid #eee;
+    background: #81ffa2;
+}
+
+.quantity-button.quantity-down {
+  position: absolute;
+  bottom: -1px;
+  height: 50%;
+    background: #ff9e9e;
+}
+
+/*!
+ * Timepicker Component for Twitter Bootstrap
+ *
+ * Copyright 2013 Joris de Wit
+ *
+ * Contributors https://github.com/jdewit/bootstrap-timepicker/graphs/contributors
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */.bootstrap-timepicker{position:relative}.bootstrap-timepicker.pull-right .bootstrap-timepicker-widget.dropdown-menu{left:auto;right:0}.bootstrap-timepicker.pull-right .bootstrap-timepicker-widget.dropdown-menu:before{left:auto;right:12px}.bootstrap-timepicker.pull-right .bootstrap-timepicker-widget.dropdown-menu:after{left:auto;right:13px}.bootstrap-timepicker .input-group-addon{cursor:pointer}.bootstrap-timepicker .input-group-addon i{display:inline-block;width:16px;height:16px}.bootstrap-timepicker-widget.dropdown-menu{padding:4px}.bootstrap-timepicker-widget.dropdown-menu.open{display:inline-block}.bootstrap-timepicker-widget.dropdown-menu:before{border-bottom:7px solid rgba(0,0,0,0.2);border-left:7px solid transparent;border-right:7px solid transparent;content:"";display:inline-block;position:absolute}.bootstrap-timepicker-widget.dropdown-menu:after{border-bottom:6px solid #fff;border-left:6px solid transparent;border-right:6px solid transparent;content:"";display:inline-block;position:absolute}.bootstrap-timepicker-widget.timepicker-orient-left:before{left:6px}.bootstrap-timepicker-widget.timepicker-orient-left:after{left:7px}.bootstrap-timepicker-widget.timepicker-orient-right:before{right:6px}.bootstrap-timepicker-widget.timepicker-orient-right:after{right:7px}.bootstrap-timepicker-widget.timepicker-orient-top:before{top:-7px}.bootstrap-timepicker-widget.timepicker-orient-top:after{top:-6px}.bootstrap-timepicker-widget.timepicker-orient-bottom:before{bottom:-7px;border-bottom:0;border-top:7px solid #999}.bootstrap-timepicker-widget.timepicker-orient-bottom:after{bottom:-6px;border-bottom:0;border-top:6px solid #fff}.bootstrap-timepicker-widget a.btn,.bootstrap-timepicker-widget input{border-radius:4px}.bootstrap-timepicker-widget table{width:100%;margin:0}.bootstrap-timepicker-widget table td{text-align:center;height:30px;margin:0;padding:2px}.bootstrap-timepicker-widget table td:not(.separator){min-width:30px}.bootstrap-timepicker-widget table td span{width:100%}.bootstrap-timepicker-widget table td a{border:1px transparent solid;width:100%;display:inline-block;margin:0;padding:8px 0;outline:0;color:#333}.bootstrap-timepicker-widget table td a:hover{text-decoration:none;background-color:#eee;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;border-color:#ddd}.bootstrap-timepicker-widget table td a i{margin-top:2px;font-size:18px}.bootstrap-timepicker-widget table td input{width:25px;margin:0;text-align:center}.bootstrap-timepicker-widget .modal-content{padding:4px}@media(min-width:767px){.bootstrap-timepicker-widget.modal{width:200px;margin-left:-100px}}@media(max-width:767px){.bootstrap-timepicker{width:100%}.bootstrap-timepicker .dropdown-menu{width:100%}}
+
+#holidays .fc-event {
+color: #fff !important;
+    border: 1px solid #ad3a9f !important;
+    background-color: #e22c45 !important;
+}
+#holidays .fc-title {
+    color: #fff;
+}
+
+#adate .fc-event {
+color: #fff !important;
+    border: 1px solid #ad3a9f !important;
+    background-color: #006d1d !important;
+}
+#adate .fc-title {
+    color: #fff;
+}

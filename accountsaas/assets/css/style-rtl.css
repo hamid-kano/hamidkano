@@ -1,0 +1,62 @@
+@media (min-width: 992px) {
+    .sidebar {
+        vertical-align: top;
+        width: 600px !important;
+    }
+    body .content-right {
+    width: -webkit-calc(100% - 600px) !important;
+    width: -moz-calc(100% - 600px) !important;
+    width: calc(100% - 600px) !important;
+    float: left  !important;
+}
+.chat-application .chat-fixed-search {
+    width: 600px !important;
+}
+.chat-application .chat-fixed-search input {
+    width: 300px !important;
+}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .sidebar {
+        vertical-align: top;
+        width: 330px !important;
+    }
+    body .content-right {
+    width: -webkit-calc(100% - 330px) !important;
+    width: -moz-calc(100% - 330px) !important;
+    width: calc(100% - 330px) !important;
+     float: left  !important;
+}
+.chat-application .chat-fixed-search {
+    width: 330px !important;
+}
+}
+@media (max-width: 767.98px) and (max-width: 576px) {
+    .sidebar {
+        vertical-align: top;
+        width: 280px !important;
+    }
+    body .content-right {
+    width: -webkit-calc(100% - 280px) !important;
+    width: -moz-calc(100% - 280px) !important;
+    width: calc(100% - 280px) !important;
+     float: left  !important;
+}
+.chat-application .chat-fixed-search {
+    width: 280px !important;
+}
+}
+.quantity-nav {
+
+    margin-left: 46px;
+}
+.ui-autocomplete.ui-front.ui-menu.ui-widget.ui-widget-content {
+  
+    right: 15px !important;
+  
+}
+
+.reverse_align {
+    text-align: left;
+}
